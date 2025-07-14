@@ -9,4 +9,7 @@ Render + personal server
 Development Process Video
 https://youtu.be/l8ll9kAReVw 
 
+Public Deployment: 
+https://www.dcijudge.com/
+
 i'm not a good developer yet, just tell me if some of this is terrible
